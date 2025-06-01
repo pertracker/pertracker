@@ -5,11 +5,11 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone"],
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "background_color": "#1C1B1F",
   "theme_color": "#B793DD",
   "orientation": "portrait",
-  "id": "com.alex.pertracker",
+  "id": "/",
   "lang": "en",
   "dir": "ltr",
   "categories": ["health", "lifestyle", "medical"],
@@ -18,8 +18,8 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.alex.pertracker",
-      "id": "com.alex.pertracker"
+      "url": "https://play.google.com/store/apps/details?id=com.pertracker.app",
+      "id": "com.pertracker.app"
     }
   ],
   "protocol_handlers": [
