@@ -1,10 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.alex.pertracker",
-      "sha256_cert_fingerprints": ["62:25:B1:1C:56:D3:EA:6B:7C:D9:8C:BD:CD:5E:22:BB:0F:F6:1D:1F:C9:64:21:22:A5:CB:89:32:2A:32:CD:50"]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.alex.pertracker",
+        "sha256_cert_fingerprints": ["AF:A7:4D:7A:F8:A7:EB:E3:3A:20:5C:1B:EA:E7:4D:73:E9:84:CA:5F:CC:17:AA:BF:37:EF:85:B6:50:8C:5C:B6"]
+      }
+    }]
