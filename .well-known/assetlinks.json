@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alex.pertracker",
+      "sha256_cert_fingerprints": ["62:25:B1:1C:56:D3:EA:6B:7C:D9:8C:BD:CD:5E:22:BB:0F:F6:1D:1F:C9:64:21:22:A5:CB:89:32:2A:32:CD:50"]
+    }
+  }
+]
