@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "xyz.pertracker.twa",
-        "sha256_cert_fingerprints": ["AF:A7:4D:7A:F8:A7:EB:E3:3A:20:5C:1B:EA:E7:4D:73:E9:84:CA:5F:CC:17:AA:BF:37:EF:85:B6:50:8C:5C:B6"]
+        "sha256_cert_fingerprints": ["A1:7A:87:3F:F3:76:5F:A5:F0:E1:51:2C:FF:40:C1:0F:DA:15:7B:40:70:FD:32:F1:81:41:68:78:6F:E4:2D:E5"]
       }
     }]
