@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.alex.pertracker",
-    "sha256_cert_fingerprints": ["12:B6:EB:D0:BE:76:44:1E:34:43:93:8A:2D:E9:41:24:18:EF:6E:F5:04:DE:31:E0:01:E6:F7:7C:99:AB:E6:9A"]
+    "sha256_cert_fingerprints": [
+      "12:B6:EB:D0:BE:76:44:1E:34:43:93:8A:2D:E9:41:24:18:EF:6E:F5:04:DE:31:E0:01:E6:F7:7C:99:AB:E6:9A",
+      "29:2E:A0:A6:30:28:91:62:D9:C6:FA:A1:C9:E7:16:D6:84:39:9F:6E:3B:42:05:59:FC:27:5C:6B:53:E2:C4:67"
+    ]
   }
 }]
