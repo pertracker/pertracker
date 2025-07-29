@@ -1,6 +1,6 @@
 # Datenschutzerklärung - PerTracker
 
-**Stand:** 30. Juni 2025
+**Stand:** 29. Juli 2025
 
 ## 1. Verantwortlicher
 **Kontakt:** github@pertracker.xyz
@@ -174,4 +174,4 @@ Bei technischen oder datenschutzrechtlichen Fragen:
 
 **Technische Bestätigung:** Diese Datenschutzerklärung basiert auf der Code-Analyse der PerTracker PWA. Die Zero-Server-Architektur gewährleistet maximalen Datenschutz für sensible Gesundheitsdaten.
 
-**Letzte Code-Analyse:** Juni 2025 | **App-Version:** 1.0.0
+**Letzte Code-Analyse:** Juli 2025 | **App-Version:** 100.0.0
